@@ -3,7 +3,7 @@
 2. contador, [0,n] <--1
 3. cadenaF, x(200)[{1-9},{a-z},{A-Z}, {BS}] <--""
 //proceso
-4. mientras (contador <=10) entonces
+4. Mientras (contador <=10) entonces
 5.   si (contador MOD 2 == 1) entonces
 6.     cadenaF= cadena F + "-1/" + contador
 7.   De lo contrario
